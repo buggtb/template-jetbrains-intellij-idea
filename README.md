@@ -6,7 +6,7 @@ This is a [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/) template co
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-jetbrains-intellij-idea)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/buggtb/template-jetbrains-intellij-idea/patch-1)
 
 ## Get Started With Your Own Project
 
